@@ -1,4 +1,8 @@
 package com.pattern.Memento.demo1;
+/**
+ * 备忘录管理者
+ * @author sun
+ */
 public class Storage {
 	
 	private Memento memento;
